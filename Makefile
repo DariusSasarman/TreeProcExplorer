@@ -11,7 +11,7 @@ SRC = main.c \
 
 OBJ = $(SRC:.c=.o)
 
-TreeProcMon: $(OBJ)
+TreeProcExplorer: $(OBJ)
 	$(CC) $(OBJ) -o $@ $(LDLIBS)
 
 %.o: %.c
@@ -20,4 +20,4 @@ TreeProcMon: $(OBJ)
 .PHONY: clean
 
 clean:
-	rm -f $(OBJ) TreeProcMon
+	rm -f $(OBJ) TreeProcExplorer
