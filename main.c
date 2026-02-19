@@ -12,7 +12,7 @@ tree * getProcessTree()
 }
 
 int main() { 
-    InitWindow(WINDOW_WIDTH, WINDOW_HEIGHT, "TreeProcMon");
+    InitWindow(WINDOW_WIDTH, WINDOW_HEIGHT, "TreeProcExplorer");
     SetTargetFPS(60); // Smoother for camera movement
 
     // Initialize Camera
