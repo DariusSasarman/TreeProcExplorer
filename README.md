@@ -7,8 +7,7 @@ It's a process explorer which visually displays the processes in their actual tr
 It's meant to display all active processes in the current state of the OS and lead to a better graphical representation of this list, as opposed to the classical process explorer.
 
 ## How does it look?
-
-TODO: Add a video here
+[demo.webm](https://github.com/user-attachments/assets/0bea6ee6-8220-4620-92dc-fa0d24b4d8a7)
 
 ## How was it made?
 
